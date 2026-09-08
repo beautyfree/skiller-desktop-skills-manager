@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.4](https://github.com/beautyfree/skiller/compare/v0.3.3...v0.3.4) (2026-09-08)
+
+
+### Bug Fixes
+
+* **settings:** avoid duplicate update banner ([fca25af](https://github.com/beautyfree/skiller/commit/fca25afca01575b460014f3df5d858d344519e6f))
+
+
+### Documentation
+
+* use skiller.download as the public website ([571417b](https://github.com/beautyfree/skiller/commit/571417beae18d10b93cabcb8af21dcca0af951aa))
+
 ## [0.3.3](https://github.com/beautyfree/skiller/compare/v0.3.2...v0.3.3) (2026-08-14)
 
 
