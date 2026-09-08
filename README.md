@@ -105,7 +105,7 @@ Theme, accent color, window blur, language, close behavior, and cache controls â
 
 ## Installation
 
-Grab the installer for your OS from the [**latest release**](https://github.com/beautyfree/skiller/releases/latest):
+Visit [**skiller.download**](https://skiller.download/) or grab the installer for your OS from the [**latest release**](https://github.com/beautyfree/skiller/releases/latest):
 
 | OS | File | Notes |
 | --- | --- | --- |
